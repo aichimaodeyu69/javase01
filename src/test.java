@@ -7,5 +7,6 @@ public class test {
         System.out.println("hello master");
         System.out.println("hello hot-fix");
         System.out.println("6666");
+        System.out.println("local master");
     }
 }
