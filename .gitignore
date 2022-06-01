@@ -41,4 +41,5 @@ log/
 *.tar.gz
 *.pid
 *.orig
+*.gitignore
 temp/
